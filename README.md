@@ -1,6 +1,8 @@
-![storage](static/images/Storage_Title.png)
+![storage](static/images/Storage_Title_README.png)
 
-> Try it out! [`HERE LATER`](https://github.com/).
+You ship a script related to storage, we ship you computer storage!
+
+> Interested? Check out the site: [`HERE LATER`](https://github.com/).
 
 ## Creating a project
 
