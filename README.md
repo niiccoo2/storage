@@ -1,4 +1,4 @@
-![storage](static\images\Storage_Title.png)
+![storage](static/images/Storage_Title.png)
 
 > Try it out! [`HERE LATER`](https://github.com/).
 
