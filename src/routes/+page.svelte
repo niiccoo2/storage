@@ -38,7 +38,7 @@
         color: #3853a1;
         user-select: none;
         margin: 0.1rem;
-        transition: color 0.3s ease, transform 0.3s ease;
+        transition: color 0.3s ease, transform 1s ease-in-out;
 
         padding: 0.5em 3em;
         
@@ -75,9 +75,8 @@
 .wobble {
     animation: wobble 2s ease-in-out infinite;
 }
-
 .explanation_text:hover {
-  animation: wiggle 0.7s ease-in-out 1 forwards;
+  animation: wiggle 0.5s ease-in-out 1 forwards;
   animation-play-state: running;
 
   color: #60a0f8;
