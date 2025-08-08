@@ -91,7 +91,7 @@
         <img src="images/Storage_Title_And_Logo.png" alt="Storage Title And Logo" class="title_top wiggle">
 
         <div class="explanation_wrapper google-sans-code">
-            <p class="explanation_text">You ship a script related to storage, we ship you computer storage!</p>
+            <p class="explanation_text">You ship a script related to file storage, we ship you computer storage!</p>
         </div>
     </div>
 </body>
